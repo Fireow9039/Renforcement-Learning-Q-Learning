@@ -27,7 +27,7 @@ pip install -r requirements.txt
 Getting Started
 
 Clone the Repository:
-git clone https://github.com/yourusername/RLQlearning_Sarsa.git
+git clone [https://github.com/yourusername/RLQlearning_Sarsa.git](https://github.com/Fireow9039/Renforcement-Learning-Q-Learning/blob/main/RLQlearning_Sarsa.ipynb)
 cd RLQlearning_Sarsa
 Run the Jupyter Notebook:
 Launch Jupyter Notebook and open the RLQlearning_Sarsa.ipynb file:
